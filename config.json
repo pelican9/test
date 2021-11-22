@@ -1,0 +1,11 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        14501,
+        768
+      ],
+      "tensorPath": "https://drive.google.com/file/d/1Bq4Mr3-PeqMA9Gf9UGD0S9EmKrQhCYFc/view?usp=sharing",
+      "metadataPath": "https://drive.google.com/file/d/1TMyHgxRMu5bzcm21RNf2sImauRtTk3AC/view?usp=sharing"
+    }
